@@ -2,10 +2,10 @@ This repository contains code aimed to figure out which library is the best solu
 
 Among lemmatization solutions we've already found:<br>
   -PyMorphy2<br>
-  -PyMystem3<br>
-  -Wordnet lemmatizer<br>
-  -Wordnet + pos tag<br>
-  -SpaCy<br>
+  -PyMystem3 - some unknown error<br>
+  -NLTK Wordnet lemmatizer - will need some pos tagging, maybe later<br>
+  -SpaCy - can't figure out how to use it<br>
+  -RuLemma https://github.com/Koziev/rulemma <br>
   -TextBlob<br>
   -NLTK<br>
   -Pattern lemmatizer<br>
